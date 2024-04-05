@@ -1,3 +1,3 @@
 # workingchuckis.github.io
 
-[album](https://github.com/workingchuckis/album)
+[album](https://workingchuckis.github.io/album/)
